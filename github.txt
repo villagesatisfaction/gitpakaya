@@ -1,0 +1,17 @@
+git config --global user.email <your github email address>
+
+git config --global user.name <github account name>
+
+git init  --> you can download file 
+
+git status  --> see files
+
+git add .   --> all file are adding
+
+git status  --> see the file 
+
+git commit -m "sample commit"  --> copy thrue the git hub page
+
+git remote add origin https://github.com/johnsamara12/student.git --> link depend your file
+
+git push -u origin master
